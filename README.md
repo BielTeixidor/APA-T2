@@ -94,7 +94,7 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 *verbosa*, de manera que se muestre el resultado de la ejecución de los tests unitarios.
 
 <p align="left">
-  <img style="max-width: 50%; height: auto;" alt="Captura de pantalla de los tests unitarios" src="https://github.com/user-attachments/assets/11e86a24-8081-446b-83f5-4833f4ab2ed7" />
+  <img style="max-width: 50%; height: auto;"  src=img/imatge.png />
 </p>
 
 #### Código desarrollado
